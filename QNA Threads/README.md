@@ -113,6 +113,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 - Kshitij Dwivedi - Initial work - [Kshitij2145](https://github.com/Kshitij2145)
+- Maahi Dhaka
 
 ## 🙏 Acknowledgments
 - Special thanks to all contributors and testers
